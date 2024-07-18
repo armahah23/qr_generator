@@ -1,12 +1,14 @@
+import UserDetails from "./Form/UserDetails"
 
-import './App.css'
+
+
 
 function App() {
   
 
   return (
     <>
-      
+      <UserDetails />
     </>
   )
 }
